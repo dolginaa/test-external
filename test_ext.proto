@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package test.serv;
+
+option go_package = "[some_pack";
+
+service Serv {
+}
